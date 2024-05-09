@@ -1,0 +1,1 @@
+This Bash script offers a robust solution for managing Java processes by their Process ID (PID). It provides a convenient interface to control Java applications running on your system efficiently and effectively.
